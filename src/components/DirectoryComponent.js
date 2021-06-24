@@ -26,7 +26,7 @@ function Directory(props) {
             <div className="row">
                 {directory}
             </div>
-
+            
         </div>
     );
 
