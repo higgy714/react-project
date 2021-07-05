@@ -221,16 +221,7 @@ class Contact extends Component {
                                         </Label>
                                     </div>
                                 </Col>
-                                <Col md={4}>
-                                    <Control.select
-                                        model=".contactType"
-                                        name="contactType"
-                                        className="form-control"
-                                    >
-                                        <option>By Phone</option>
-                                        <option>By Email</option>
-                                    </Control.select>
-                                </Col>
+
                             </Row>
                             <Row className="form-group">
                                 <Label htmlFor="feedback" md={2}>
