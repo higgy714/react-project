@@ -56,7 +56,7 @@ class CommentForm extends Component {
                                     <option>5</option>
                                 </Control.select>
                             </div>
-                            <div className="form-grouup">
+                            <div className="form-group">
                                 <Label htmlFor="author">
                                     Your Name
                                 </Label>
